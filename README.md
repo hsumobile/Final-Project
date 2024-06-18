@@ -26,6 +26,6 @@
   유튜브 동영상
 
   <a href="https://www.youtube.com/watch?v=fpBYIk8nWIk">
-    <img src="images/main.png" alt="Your Video Title" width="400" height="600">
+    <img src="images/title.png" alt="Your Video Title" width="400" height="600">
   </a>
 
