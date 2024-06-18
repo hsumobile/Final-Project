@@ -9,5 +9,5 @@
 - 학습 플래너 : 날짜별 학습 계획을 세울 수 있는 기능이다.
 - 학습 타이머 : 학습 시간을 측정할 수 있는 기능이다.
 #### 3. 프로젝트 결과
-- 메인 화면 <br> ![main](images/main.png)
-- 설명서 화면 <br> ![howtouse](images/howtouse.png)
+- 메인 화면 <br> ![main](images/main.png)  <img src="images/main.png" width="200" height="200" />
+- 설명서 화면 <br> ![howtouse](images/howtouse.png)  <img src="images/howtouse.png" width="200" height="200" />
